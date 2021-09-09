@@ -1,0 +1,32 @@
+#drawing {
+    height: 30em;
+}
+
+.poem {
+    font-style: italic;
+    line-height: 2em;
+}
+
+.text-and-content {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+li {
+    height: 3em;
+}
+
+a {
+    color: #96daff;
+}
+
+a:visited {
+    color: #a691d4
+}
+
+body {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #ffffff;
+    background-color: #121212;
+}
