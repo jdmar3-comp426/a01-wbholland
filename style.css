@@ -2,6 +2,10 @@
     height: 30em;
 }
 
+h1 {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
 .problem {
     /* border: 1px solid #ffffff; */
     display: grid;
